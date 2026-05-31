@@ -1,0 +1,6 @@
+{
+  "name": "BisaFit.AI",
+  "description": "Your ultimate AI companion for precision workouts, non-boring local nutrition, and shift-work recovery mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
